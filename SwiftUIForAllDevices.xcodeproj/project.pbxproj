@@ -11,7 +11,111 @@
 		3BCDEBED288E558A003E8BD4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEBEC288E558A003E8BD4 /* ContentView.swift */; };
 		3BCDEBEF288E558D003E8BD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BCDEBEE288E558D003E8BD4 /* Assets.xcassets */; };
 		3BCDEBF2288E558D003E8BD4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BCDEBF1288E558D003E8BD4 /* Preview Assets.xcassets */; };
+		3BCDEBFD288E55FD003E8BD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BCDEBFC288E55FD003E8BD4 /* Assets.xcassets */; };
+		3BCDEC03288E55FD003E8BD4 /* SwiftUIForAllDevices-WaftchOS WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 3BCDEC02288E55FD003E8BD4 /* SwiftUIForAllDevices-WaftchOS WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		3BCDEC08288E55FD003E8BD4 /* SwiftUIForAllDevicesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC07288E55FD003E8BD4 /* SwiftUIForAllDevicesApp.swift */; };
+		3BCDEC0A288E55FD003E8BD4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC09288E55FD003E8BD4 /* ContentView.swift */; };
+		3BCDEC0C288E55FD003E8BD4 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC0B288E55FD003E8BD4 /* NotificationController.swift */; };
+		3BCDEC0E288E55FD003E8BD4 /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC0D288E55FD003E8BD4 /* NotificationView.swift */; };
+		3BCDEC10288E55FD003E8BD4 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC0F288E55FD003E8BD4 /* ComplicationController.swift */; };
+		3BCDEC12288E55FE003E8BD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BCDEC11288E55FE003E8BD4 /* Assets.xcassets */; };
+		3BCDEC15288E55FE003E8BD4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BCDEC14288E55FE003E8BD4 /* Preview Assets.xcassets */; };
+		3BCDEC1A288E55FE003E8BD4 /* SwiftUIForAllDevices-WaftchOS.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 3BCDEBFA288E55FC003E8BD4 /* SwiftUIForAllDevices-WaftchOS.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		3BCDEC2A288E5630003E8BD4 /* SwiftUIForAllDevices_MacOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC29288E5630003E8BD4 /* SwiftUIForAllDevices_MacOSApp.swift */; };
+		3BCDEC2C288E5630003E8BD4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC2B288E5630003E8BD4 /* ContentView.swift */; };
+		3BCDEC2E288E5630003E8BD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BCDEC2D288E5630003E8BD4 /* Assets.xcassets */; };
+		3BCDEC31288E5630003E8BD4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BCDEC30288E5630003E8BD4 /* Preview Assets.xcassets */; };
+		3BCDEC3E288E573B003E8BD4 /* SwiftUIForAllDevices_Core.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BCDEC3D288E573B003E8BD4 /* SwiftUIForAllDevices_Core.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3BCDEC41288E573B003E8BD4 /* SwiftUIForAllDevices_Core.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BCDEC3B288E573B003E8BD4 /* SwiftUIForAllDevices_Core.framework */; };
+		3BCDEC42288E573B003E8BD4 /* SwiftUIForAllDevices_Core.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3BCDEC3B288E573B003E8BD4 /* SwiftUIForAllDevices_Core.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		3BCDEC49288E584A003E8BD4 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC48288E584A003E8BD4 /* Animal.swift */; };
+		3BCDEC4A288E584A003E8BD4 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC48288E584A003E8BD4 /* Animal.swift */; };
+		3BCDEC4B288E584A003E8BD4 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC48288E584A003E8BD4 /* Animal.swift */; };
+		3BCDEC4C288E584A003E8BD4 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC48288E584A003E8BD4 /* Animal.swift */; };
+		3BCDEC4E288E58E9003E8BD4 /* AnimalService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC4D288E58E9003E8BD4 /* AnimalService.swift */; };
+		3BCDEC4F288E58E9003E8BD4 /* AnimalService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC4D288E58E9003E8BD4 /* AnimalService.swift */; };
+		3BCDEC50288E58E9003E8BD4 /* AnimalService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC4D288E58E9003E8BD4 /* AnimalService.swift */; };
+		3BCDEC51288E58E9003E8BD4 /* AnimalService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC4D288E58E9003E8BD4 /* AnimalService.swift */; };
+		3BCDEC53288E5C50003E8BD4 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC52288E5C50003E8BD4 /* DetailView.swift */; };
+		3BCDEC55288E5FCE003E8BD4 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC54288E5FCE003E8BD4 /* DetailView.swift */; };
+		3BCDEC5E288E6240003E8BD4 /* SwiftUIForAllDevices_common.h in Headers */ = {isa = PBXBuildFile; fileRef = 3BCDEC5D288E6240003E8BD4 /* SwiftUIForAllDevices_common.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3BCDEC61288E6240003E8BD4 /* SwiftUIForAllDevices_common.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BCDEC5B288E6240003E8BD4 /* SwiftUIForAllDevices_common.framework */; };
+		3BCDEC62288E6240003E8BD4 /* SwiftUIForAllDevices_common.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3BCDEC5B288E6240003E8BD4 /* SwiftUIForAllDevices_common.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		3BCDEC6D288E6288003E8BD4 /* SharedDetailVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC6C288E6288003E8BD4 /* SharedDetailVIew.swift */; };
+		3BCDEC6E288E6288003E8BD4 /* SharedDetailVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC6C288E6288003E8BD4 /* SharedDetailVIew.swift */; };
+		3BCDEC6F288E6288003E8BD4 /* SharedDetailVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC6C288E6288003E8BD4 /* SharedDetailVIew.swift */; };
+		3BCDEC70288E6288003E8BD4 /* SharedDetailVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC6C288E6288003E8BD4 /* SharedDetailVIew.swift */; };
+		3BCDEC71288E6288003E8BD4 /* SharedDetailVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC6C288E6288003E8BD4 /* SharedDetailVIew.swift */; };
+		3BCDEC72288E64E1003E8BD4 /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BCDEC48288E584A003E8BD4 /* Animal.swift */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3BCDEC04288E55FD003E8BD4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3BCDEBDF288E558A003E8BD4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3BCDEC01288E55FD003E8BD4;
+			remoteInfo = "SwiftUIForAllDevices-WaftchOS WatchKit Extension";
+		};
+		3BCDEC18288E55FE003E8BD4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3BCDEBDF288E558A003E8BD4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3BCDEBF9288E55FC003E8BD4;
+			remoteInfo = "SwiftUIForAllDevices-WaftchOS";
+		};
+		3BCDEC3F288E573B003E8BD4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3BCDEBDF288E558A003E8BD4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3BCDEC3A288E573B003E8BD4;
+			remoteInfo = "SwiftUIForAllDevices-Core";
+		};
+		3BCDEC5F288E6240003E8BD4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3BCDEBDF288E558A003E8BD4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3BCDEC5A288E6240003E8BD4;
+			remoteInfo = "SwiftUIForAllDevices-common";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		3BCDEC1E288E55FE003E8BD4 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				3BCDEC03288E55FD003E8BD4 /* SwiftUIForAllDevices-WaftchOS WatchKit Extension.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BCDEC22288E55FE003E8BD4 /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				3BCDEC1A288E55FE003E8BD4 /* SwiftUIForAllDevices-WaftchOS.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BCDEC46288E573B003E8BD4 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				3BCDEC42288E573B003E8BD4 /* SwiftUIForAllDevices_Core.framework in Embed Frameworks */,
+				3BCDEC62288E6240003E8BD4 /* SwiftUIForAllDevices_common.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		3BCDEBE7288E558A003E8BD4 /* SwiftUIForAllDevices.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIForAllDevices.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -19,10 +123,68 @@
 		3BCDEBEC288E558A003E8BD4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3BCDEBEE288E558D003E8BD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3BCDEBF1288E558D003E8BD4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3BCDEBFA288E55FC003E8BD4 /* SwiftUIForAllDevices-WaftchOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUIForAllDevices-WaftchOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BCDEBFC288E55FD003E8BD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3BCDEC02288E55FD003E8BD4 /* SwiftUIForAllDevices-WaftchOS WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "SwiftUIForAllDevices-WaftchOS WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BCDEC07288E55FD003E8BD4 /* SwiftUIForAllDevicesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIForAllDevicesApp.swift; sourceTree = "<group>"; };
+		3BCDEC09288E55FD003E8BD4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		3BCDEC0B288E55FD003E8BD4 /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
+		3BCDEC0D288E55FD003E8BD4 /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
+		3BCDEC0F288E55FD003E8BD4 /* ComplicationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplicationController.swift; sourceTree = "<group>"; };
+		3BCDEC11288E55FE003E8BD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3BCDEC14288E55FE003E8BD4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3BCDEC16288E55FE003E8BD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BCDEC17288E55FE003E8BD4 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		3BCDEC27288E5630003E8BD4 /* SwiftUIForAllDevices-MacOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUIForAllDevices-MacOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BCDEC29288E5630003E8BD4 /* SwiftUIForAllDevices_MacOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIForAllDevices_MacOSApp.swift; sourceTree = "<group>"; };
+		3BCDEC2B288E5630003E8BD4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		3BCDEC2D288E5630003E8BD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3BCDEC30288E5630003E8BD4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3BCDEC32288E5631003E8BD4 /* SwiftUIForAllDevices_MacOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = SwiftUIForAllDevices_MacOS.entitlements; sourceTree = "<group>"; };
+		3BCDEC3B288E573B003E8BD4 /* SwiftUIForAllDevices_Core.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftUIForAllDevices_Core.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BCDEC3D288E573B003E8BD4 /* SwiftUIForAllDevices_Core.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwiftUIForAllDevices_Core.h; sourceTree = "<group>"; };
+		3BCDEC47288E584A003E8BD4 /* SwiftUIForAllDevices-WaftchOS-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SwiftUIForAllDevices-WaftchOS-Bridging-Header.h"; sourceTree = "<group>"; };
+		3BCDEC48288E584A003E8BD4 /* Animal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
+		3BCDEC4D288E58E9003E8BD4 /* AnimalService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalService.swift; sourceTree = "<group>"; };
+		3BCDEC52288E5C50003E8BD4 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		3BCDEC54288E5FCE003E8BD4 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		3BCDEC5B288E6240003E8BD4 /* SwiftUIForAllDevices_common.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftUIForAllDevices_common.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BCDEC5D288E6240003E8BD4 /* SwiftUIForAllDevices_common.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwiftUIForAllDevices_common.h; sourceTree = "<group>"; };
+		3BCDEC6C288E6288003E8BD4 /* SharedDetailVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharedDetailVIew.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		3BCDEBE4288E558A003E8BD4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BCDEBFF288E55FD003E8BD4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BCDEC24288E5630003E8BD4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BCDEC41288E573B003E8BD4 /* SwiftUIForAllDevices_Core.framework in Frameworks */,
+				3BCDEC61288E6240003E8BD4 /* SwiftUIForAllDevices_common.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BCDEC38288E573B003E8BD4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BCDEC58288E6240003E8BD4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -36,6 +198,11 @@
 			isa = PBXGroup;
 			children = (
 				3BCDEBE9288E558A003E8BD4 /* SwiftUIForAllDevices */,
+				3BCDEBFB288E55FC003E8BD4 /* SwiftUIForAllDevices-WaftchOS */,
+				3BCDEC06288E55FD003E8BD4 /* SwiftUIForAllDevices-WaftchOS WatchKit Extension */,
+				3BCDEC28288E5630003E8BD4 /* SwiftUIForAllDevices-MacOS */,
+				3BCDEC3C288E573B003E8BD4 /* SwiftUIForAllDevices-Core */,
+				3BCDEC5C288E6240003E8BD4 /* SwiftUIForAllDevices-common */,
 				3BCDEBE8288E558A003E8BD4 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -44,6 +211,11 @@
 			isa = PBXGroup;
 			children = (
 				3BCDEBE7288E558A003E8BD4 /* SwiftUIForAllDevices.app */,
+				3BCDEBFA288E55FC003E8BD4 /* SwiftUIForAllDevices-WaftchOS.app */,
+				3BCDEC02288E55FD003E8BD4 /* SwiftUIForAllDevices-WaftchOS WatchKit Extension.appex */,
+				3BCDEC27288E5630003E8BD4 /* SwiftUIForAllDevices-MacOS.app */,
+				3BCDEC3B288E573B003E8BD4 /* SwiftUIForAllDevices_Core.framework */,
+				3BCDEC5B288E6240003E8BD4 /* SwiftUIForAllDevices_common.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -53,6 +225,7 @@
 			children = (
 				3BCDEBEA288E558A003E8BD4 /* SwiftUIForAllDevicesApp.swift */,
 				3BCDEBEC288E558A003E8BD4 /* ContentView.swift */,
+				3BCDEC52288E5C50003E8BD4 /* DetailView.swift */,
 				3BCDEBEE288E558D003E8BD4 /* Assets.xcassets */,
 				3BCDEBF0288E558D003E8BD4 /* Preview Content */,
 			);
@@ -67,7 +240,99 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		3BCDEBFB288E55FC003E8BD4 /* SwiftUIForAllDevices-WaftchOS */ = {
+			isa = PBXGroup;
+			children = (
+				3BCDEBFC288E55FD003E8BD4 /* Assets.xcassets */,
+			);
+			path = "SwiftUIForAllDevices-WaftchOS";
+			sourceTree = "<group>";
+		};
+		3BCDEC06288E55FD003E8BD4 /* SwiftUIForAllDevices-WaftchOS WatchKit Extension */ = {
+			isa = PBXGroup;
+			children = (
+				3BCDEC07288E55FD003E8BD4 /* SwiftUIForAllDevicesApp.swift */,
+				3BCDEC09288E55FD003E8BD4 /* ContentView.swift */,
+				3BCDEC54288E5FCE003E8BD4 /* DetailView.swift */,
+				3BCDEC0B288E55FD003E8BD4 /* NotificationController.swift */,
+				3BCDEC0D288E55FD003E8BD4 /* NotificationView.swift */,
+				3BCDEC0F288E55FD003E8BD4 /* ComplicationController.swift */,
+				3BCDEC11288E55FE003E8BD4 /* Assets.xcassets */,
+				3BCDEC16288E55FE003E8BD4 /* Info.plist */,
+				3BCDEC17288E55FE003E8BD4 /* PushNotificationPayload.apns */,
+				3BCDEC13288E55FE003E8BD4 /* Preview Content */,
+			);
+			path = "SwiftUIForAllDevices-WaftchOS WatchKit Extension";
+			sourceTree = "<group>";
+		};
+		3BCDEC13288E55FE003E8BD4 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				3BCDEC14288E55FE003E8BD4 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3BCDEC28288E5630003E8BD4 /* SwiftUIForAllDevices-MacOS */ = {
+			isa = PBXGroup;
+			children = (
+				3BCDEC29288E5630003E8BD4 /* SwiftUIForAllDevices_MacOSApp.swift */,
+				3BCDEC2B288E5630003E8BD4 /* ContentView.swift */,
+				3BCDEC2D288E5630003E8BD4 /* Assets.xcassets */,
+				3BCDEC32288E5631003E8BD4 /* SwiftUIForAllDevices_MacOS.entitlements */,
+				3BCDEC2F288E5630003E8BD4 /* Preview Content */,
+			);
+			path = "SwiftUIForAllDevices-MacOS";
+			sourceTree = "<group>";
+		};
+		3BCDEC2F288E5630003E8BD4 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				3BCDEC30288E5630003E8BD4 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3BCDEC3C288E573B003E8BD4 /* SwiftUIForAllDevices-Core */ = {
+			isa = PBXGroup;
+			children = (
+				3BCDEC3D288E573B003E8BD4 /* SwiftUIForAllDevices_Core.h */,
+				3BCDEC48288E584A003E8BD4 /* Animal.swift */,
+				3BCDEC47288E584A003E8BD4 /* SwiftUIForAllDevices-WaftchOS-Bridging-Header.h */,
+				3BCDEC4D288E58E9003E8BD4 /* AnimalService.swift */,
+			);
+			path = "SwiftUIForAllDevices-Core";
+			sourceTree = "<group>";
+		};
+		3BCDEC5C288E6240003E8BD4 /* SwiftUIForAllDevices-common */ = {
+			isa = PBXGroup;
+			children = (
+				3BCDEC5D288E6240003E8BD4 /* SwiftUIForAllDevices_common.h */,
+				3BCDEC6C288E6288003E8BD4 /* SharedDetailVIew.swift */,
+			);
+			path = "SwiftUIForAllDevices-common";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		3BCDEC36288E573B003E8BD4 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BCDEC3E288E573B003E8BD4 /* SwiftUIForAllDevices_Core.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BCDEC56288E6240003E8BD4 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BCDEC5E288E6240003E8BD4 /* SwiftUIForAllDevices_common.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
 		3BCDEBE6288E558A003E8BD4 /* SwiftUIForAllDevices */ = {
@@ -77,15 +342,107 @@
 				3BCDEBE3288E558A003E8BD4 /* Sources */,
 				3BCDEBE4288E558A003E8BD4 /* Frameworks */,
 				3BCDEBE5288E558A003E8BD4 /* Resources */,
+				3BCDEC22288E55FE003E8BD4 /* Embed Watch Content */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				3BCDEC19288E55FE003E8BD4 /* PBXTargetDependency */,
 			);
 			name = SwiftUIForAllDevices;
 			productName = SwiftUIForAllDevices;
 			productReference = 3BCDEBE7288E558A003E8BD4 /* SwiftUIForAllDevices.app */;
 			productType = "com.apple.product-type.application";
+		};
+		3BCDEBF9288E55FC003E8BD4 /* SwiftUIForAllDevices-WaftchOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BCDEC1F288E55FE003E8BD4 /* Build configuration list for PBXNativeTarget "SwiftUIForAllDevices-WaftchOS" */;
+			buildPhases = (
+				3BCDEBF8288E55FC003E8BD4 /* Resources */,
+				3BCDEC1E288E55FE003E8BD4 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3BCDEC05288E55FD003E8BD4 /* PBXTargetDependency */,
+			);
+			name = "SwiftUIForAllDevices-WaftchOS";
+			productName = "SwiftUIForAllDevices-WaftchOS";
+			productReference = 3BCDEBFA288E55FC003E8BD4 /* SwiftUIForAllDevices-WaftchOS.app */;
+			productType = "com.apple.product-type.application.watchapp2";
+		};
+		3BCDEC01288E55FD003E8BD4 /* SwiftUIForAllDevices-WaftchOS WatchKit Extension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BCDEC1B288E55FE003E8BD4 /* Build configuration list for PBXNativeTarget "SwiftUIForAllDevices-WaftchOS WatchKit Extension" */;
+			buildPhases = (
+				3BCDEBFE288E55FD003E8BD4 /* Sources */,
+				3BCDEBFF288E55FD003E8BD4 /* Frameworks */,
+				3BCDEC00288E55FD003E8BD4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "SwiftUIForAllDevices-WaftchOS WatchKit Extension";
+			productName = "SwiftUIForAllDevices-WaftchOS WatchKit Extension";
+			productReference = 3BCDEC02288E55FD003E8BD4 /* SwiftUIForAllDevices-WaftchOS WatchKit Extension.appex */;
+			productType = "com.apple.product-type.watchkit2-extension";
+		};
+		3BCDEC26288E5630003E8BD4 /* SwiftUIForAllDevices-MacOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BCDEC33288E5631003E8BD4 /* Build configuration list for PBXNativeTarget "SwiftUIForAllDevices-MacOS" */;
+			buildPhases = (
+				3BCDEC23288E5630003E8BD4 /* Sources */,
+				3BCDEC24288E5630003E8BD4 /* Frameworks */,
+				3BCDEC25288E5630003E8BD4 /* Resources */,
+				3BCDEC46288E573B003E8BD4 /* Embed Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3BCDEC40288E573B003E8BD4 /* PBXTargetDependency */,
+				3BCDEC60288E6240003E8BD4 /* PBXTargetDependency */,
+			);
+			name = "SwiftUIForAllDevices-MacOS";
+			productName = "SwiftUIForAllDevices-MacOS";
+			productReference = 3BCDEC27288E5630003E8BD4 /* SwiftUIForAllDevices-MacOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3BCDEC3A288E573B003E8BD4 /* SwiftUIForAllDevices-Core */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BCDEC43288E573B003E8BD4 /* Build configuration list for PBXNativeTarget "SwiftUIForAllDevices-Core" */;
+			buildPhases = (
+				3BCDEC36288E573B003E8BD4 /* Headers */,
+				3BCDEC37288E573B003E8BD4 /* Sources */,
+				3BCDEC38288E573B003E8BD4 /* Frameworks */,
+				3BCDEC39288E573B003E8BD4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "SwiftUIForAllDevices-Core";
+			productName = "SwiftUIForAllDevices-Core";
+			productReference = 3BCDEC3B288E573B003E8BD4 /* SwiftUIForAllDevices_Core.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		3BCDEC5A288E6240003E8BD4 /* SwiftUIForAllDevices-common */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BCDEC63288E6240003E8BD4 /* Build configuration list for PBXNativeTarget "SwiftUIForAllDevices-common" */;
+			buildPhases = (
+				3BCDEC56288E6240003E8BD4 /* Headers */,
+				3BCDEC57288E6240003E8BD4 /* Sources */,
+				3BCDEC58288E6240003E8BD4 /* Frameworks */,
+				3BCDEC59288E6240003E8BD4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "SwiftUIForAllDevices-common";
+			productName = "SwiftUIForAllDevices-common";
+			productReference = 3BCDEC5B288E6240003E8BD4 /* SwiftUIForAllDevices_common.framework */;
+			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
 
@@ -99,6 +456,24 @@
 				TargetAttributes = {
 					3BCDEBE6288E558A003E8BD4 = {
 						CreatedOnToolsVersion = 13.4.1;
+					};
+					3BCDEBF9288E55FC003E8BD4 = {
+						CreatedOnToolsVersion = 13.4.1;
+						LastSwiftMigration = 1340;
+					};
+					3BCDEC01288E55FD003E8BD4 = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+					3BCDEC26288E5630003E8BD4 = {
+						CreatedOnToolsVersion = 13.4.1;
+					};
+					3BCDEC3A288E573B003E8BD4 = {
+						CreatedOnToolsVersion = 13.4.1;
+						LastSwiftMigration = 1340;
+					};
+					3BCDEC5A288E6240003E8BD4 = {
+						CreatedOnToolsVersion = 13.4.1;
+						LastSwiftMigration = 1340;
 					};
 				};
 			};
@@ -116,6 +491,11 @@
 			projectRoot = "";
 			targets = (
 				3BCDEBE6288E558A003E8BD4 /* SwiftUIForAllDevices */,
+				3BCDEBF9288E55FC003E8BD4 /* SwiftUIForAllDevices-WaftchOS */,
+				3BCDEC01288E55FD003E8BD4 /* SwiftUIForAllDevices-WaftchOS WatchKit Extension */,
+				3BCDEC26288E5630003E8BD4 /* SwiftUIForAllDevices-MacOS */,
+				3BCDEC3A288E573B003E8BD4 /* SwiftUIForAllDevices-Core */,
+				3BCDEC5A288E6240003E8BD4 /* SwiftUIForAllDevices-common */,
 			);
 		};
 /* End PBXProject section */
@@ -130,6 +510,46 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		3BCDEBF8288E55FC003E8BD4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BCDEBFD288E55FD003E8BD4 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BCDEC00288E55FD003E8BD4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BCDEC15288E55FE003E8BD4 /* Preview Assets.xcassets in Resources */,
+				3BCDEC12288E55FE003E8BD4 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BCDEC25288E5630003E8BD4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BCDEC31288E5630003E8BD4 /* Preview Assets.xcassets in Resources */,
+				3BCDEC2E288E5630003E8BD4 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BCDEC39288E573B003E8BD4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BCDEC59288E6240003E8BD4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -138,11 +558,85 @@
 			buildActionMask = 2147483647;
 			files = (
 				3BCDEBED288E558A003E8BD4 /* ContentView.swift in Sources */,
+				3BCDEC4E288E58E9003E8BD4 /* AnimalService.swift in Sources */,
+				3BCDEC6D288E6288003E8BD4 /* SharedDetailVIew.swift in Sources */,
 				3BCDEBEB288E558A003E8BD4 /* SwiftUIForAllDevicesApp.swift in Sources */,
+				3BCDEC53288E5C50003E8BD4 /* DetailView.swift in Sources */,
+				3BCDEC49288E584A003E8BD4 /* Animal.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BCDEBFE288E55FD003E8BD4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BCDEC0C288E55FD003E8BD4 /* NotificationController.swift in Sources */,
+				3BCDEC55288E5FCE003E8BD4 /* DetailView.swift in Sources */,
+				3BCDEC6E288E6288003E8BD4 /* SharedDetailVIew.swift in Sources */,
+				3BCDEC0A288E55FD003E8BD4 /* ContentView.swift in Sources */,
+				3BCDEC10288E55FD003E8BD4 /* ComplicationController.swift in Sources */,
+				3BCDEC4F288E58E9003E8BD4 /* AnimalService.swift in Sources */,
+				3BCDEC08288E55FD003E8BD4 /* SwiftUIForAllDevicesApp.swift in Sources */,
+				3BCDEC0E288E55FD003E8BD4 /* NotificationView.swift in Sources */,
+				3BCDEC4A288E584A003E8BD4 /* Animal.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BCDEC23288E5630003E8BD4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BCDEC6F288E6288003E8BD4 /* SharedDetailVIew.swift in Sources */,
+				3BCDEC2C288E5630003E8BD4 /* ContentView.swift in Sources */,
+				3BCDEC50288E58E9003E8BD4 /* AnimalService.swift in Sources */,
+				3BCDEC2A288E5630003E8BD4 /* SwiftUIForAllDevices_MacOSApp.swift in Sources */,
+				3BCDEC4B288E584A003E8BD4 /* Animal.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BCDEC37288E573B003E8BD4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BCDEC4C288E584A003E8BD4 /* Animal.swift in Sources */,
+				3BCDEC51288E58E9003E8BD4 /* AnimalService.swift in Sources */,
+				3BCDEC70288E6288003E8BD4 /* SharedDetailVIew.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BCDEC57288E6240003E8BD4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BCDEC71288E6288003E8BD4 /* SharedDetailVIew.swift in Sources */,
+				3BCDEC72288E64E1003E8BD4 /* Animal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3BCDEC05288E55FD003E8BD4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3BCDEC01288E55FD003E8BD4 /* SwiftUIForAllDevices-WaftchOS WatchKit Extension */;
+			targetProxy = 3BCDEC04288E55FD003E8BD4 /* PBXContainerItemProxy */;
+		};
+		3BCDEC19288E55FE003E8BD4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3BCDEBF9288E55FC003E8BD4 /* SwiftUIForAllDevices-WaftchOS */;
+			targetProxy = 3BCDEC18288E55FE003E8BD4 /* PBXContainerItemProxy */;
+		};
+		3BCDEC40288E573B003E8BD4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3BCDEC3A288E573B003E8BD4 /* SwiftUIForAllDevices-Core */;
+			targetProxy = 3BCDEC3F288E573B003E8BD4 /* PBXContainerItemProxy */;
+		};
+		3BCDEC60288E6240003E8BD4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3BCDEC5A288E6240003E8BD4 /* SwiftUIForAllDevices-common */;
+			targetProxy = 3BCDEC5F288E6240003E8BD4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		3BCDEBF3288E558D003E8BD4 /* Debug */ = {
@@ -317,6 +811,329 @@
 			};
 			name = Release;
 		};
+		3BCDEC1C288E55FE003E8BD4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIForAllDevices-WaftchOS WatchKit Extension/Preview Content\"";
+				DEVELOPMENT_TEAM = G3VP62JDQQ;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "SwiftUIForAllDevices-WaftchOS WatchKit Extension/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "SwiftUIForAllDevices-WaftchOS WatchKit Extension";
+				INFOPLIST_KEY_CLKComplicationPrincipalClass = "$(PRODUCT_MODULE_NAME).ComplicationController";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = dmitriikim.SwiftUIForAllDevices.watchkitapp.watchkitextension;
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 8.5;
+			};
+			name = Debug;
+		};
+		3BCDEC1D288E55FE003E8BD4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIForAllDevices-WaftchOS WatchKit Extension/Preview Content\"";
+				DEVELOPMENT_TEAM = G3VP62JDQQ;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "SwiftUIForAllDevices-WaftchOS WatchKit Extension/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "SwiftUIForAllDevices-WaftchOS WatchKit Extension";
+				INFOPLIST_KEY_CLKComplicationPrincipalClass = "$(PRODUCT_MODULE_NAME).ComplicationController";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = dmitriikim.SwiftUIForAllDevices.watchkitapp.watchkitextension;
+				PRODUCT_NAME = "${TARGET_NAME}";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 8.5;
+			};
+			name = Release;
+		};
+		3BCDEC20288E55FE003E8BD4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = G3VP62JDQQ;
+				GENERATE_INFOPLIST_FILE = YES;
+				IBSC_MODULE = SwiftUIForAllDevices_WaftchOS_WatchKit_Extension;
+				INFOPLIST_KEY_CFBundleDisplayName = "SwiftUIForAllDevices-WaftchOS";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = dmitriikim.SwiftUIForAllDevices;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = dmitriikim.SwiftUIForAllDevices.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "SwiftUIForAllDevices-Core/SwiftUIForAllDevices-WaftchOS-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 8.5;
+			};
+			name = Debug;
+		};
+		3BCDEC21288E55FE003E8BD4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = G3VP62JDQQ;
+				GENERATE_INFOPLIST_FILE = YES;
+				IBSC_MODULE = SwiftUIForAllDevices_WaftchOS_WatchKit_Extension;
+				INFOPLIST_KEY_CFBundleDisplayName = "SwiftUIForAllDevices-WaftchOS";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = dmitriikim.SwiftUIForAllDevices;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = dmitriikim.SwiftUIForAllDevices.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "SwiftUIForAllDevices-Core/SwiftUIForAllDevices-WaftchOS-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 8.5;
+			};
+			name = Release;
+		};
+		3BCDEC34288E5631003E8BD4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "SwiftUIForAllDevices-MacOS/SwiftUIForAllDevices_MacOS.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIForAllDevices-MacOS/Preview Content\"";
+				DEVELOPMENT_TEAM = G3VP62JDQQ;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "dmitriikim.SwiftUIForAllDevices-MacOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		3BCDEC35288E5631003E8BD4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "SwiftUIForAllDevices-MacOS/SwiftUIForAllDevices_MacOS.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIForAllDevices-MacOS/Preview Content\"";
+				DEVELOPMENT_TEAM = G3VP62JDQQ;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "dmitriikim.SwiftUIForAllDevices-MacOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		3BCDEC44288E573B003E8BD4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = G3VP62JDQQ;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "dmitriikim.SwiftUIForAllDevices-Core";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		3BCDEC45288E573B003E8BD4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = G3VP62JDQQ;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "dmitriikim.SwiftUIForAllDevices-Core";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		3BCDEC64288E6240003E8BD4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = G3VP62JDQQ;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "dmitriikim.SwiftUIForAllDevices-common";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		3BCDEC65288E6240003E8BD4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = G3VP62JDQQ;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "dmitriikim.SwiftUIForAllDevices-common";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -334,6 +1151,51 @@
 			buildConfigurations = (
 				3BCDEBF6288E558D003E8BD4 /* Debug */,
 				3BCDEBF7288E558D003E8BD4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BCDEC1B288E55FE003E8BD4 /* Build configuration list for PBXNativeTarget "SwiftUIForAllDevices-WaftchOS WatchKit Extension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BCDEC1C288E55FE003E8BD4 /* Debug */,
+				3BCDEC1D288E55FE003E8BD4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BCDEC1F288E55FE003E8BD4 /* Build configuration list for PBXNativeTarget "SwiftUIForAllDevices-WaftchOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BCDEC20288E55FE003E8BD4 /* Debug */,
+				3BCDEC21288E55FE003E8BD4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BCDEC33288E5631003E8BD4 /* Build configuration list for PBXNativeTarget "SwiftUIForAllDevices-MacOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BCDEC34288E5631003E8BD4 /* Debug */,
+				3BCDEC35288E5631003E8BD4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BCDEC43288E573B003E8BD4 /* Build configuration list for PBXNativeTarget "SwiftUIForAllDevices-Core" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BCDEC44288E573B003E8BD4 /* Debug */,
+				3BCDEC45288E573B003E8BD4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BCDEC63288E6240003E8BD4 /* Build configuration list for PBXNativeTarget "SwiftUIForAllDevices-common" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BCDEC64288E6240003E8BD4 /* Debug */,
+				3BCDEC65288E6240003E8BD4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
